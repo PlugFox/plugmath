@@ -1,0 +1,15 @@
+name: plugmath
+version: 0.0.1
+author: Plague Fox <plugfox@gmail.com>
+description: Plague Math
+homepage: https://github.com/PlugFox
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: any
+
+dependency_overrides:
